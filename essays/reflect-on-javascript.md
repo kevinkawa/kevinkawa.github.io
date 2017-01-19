@@ -8,7 +8,7 @@ labels:
   - Learning
 ---
 
-## Reflect on Javascript 1
+## Javascript
 
 As I have recently switched my major to the ICS program at UH Manoa, I've had limited exposure to different computer programming languages in my quest for a BA degree in ICS.  I am definitely not a computer programming expert yet.  Yeah, I've had a semester with Python, a year with Java, a semester in C++, and a couple of assignments with Lisp and Prolog.  But, one thing I've learned is these programming languages were were pretty similar to one another.  That is what I found fascinating about computer programming, and one of the reasons I chose ICS as my new major.  Computer programs can also do so many things.  These programming languages were similar because they consisted of data types, control constructs, and functions.  The different syntax was what I find to be the most challenging.  I also have yet to learn what makes one programming language "better" than another.
 
