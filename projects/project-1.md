@@ -10,7 +10,6 @@ labels:
   - Teaching
 summary: Implementing a new mapping application at FedEx Ground.
 ---
-
 <div class="ui small rounded images">
   <img class="ui image" src="../images/fedex.jpg">
 </div>
