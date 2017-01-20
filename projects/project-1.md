@@ -3,6 +3,7 @@ layout: project
 type: project
 image: images/fedex.jpg
 title: Mapping application
+permalink: projects/fedex
 date: 2015
 labels:
   - Learning
