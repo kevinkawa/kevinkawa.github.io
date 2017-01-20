@@ -7,7 +7,7 @@ date: 2015
 labels:
   - Learning
   - Teaching
-summary: I was responsible for implementing and training other employees on a new application at FedEx Ground.
+summary: Implementing a new mapping application at FedEx Ground.
 ---
 
 <div class="ui small rounded images">
