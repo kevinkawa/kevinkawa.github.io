@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/fedex.jpg
+image: images/fedex.jpeg
 title: Mapping application
 date: 2015
 labels:
@@ -11,7 +11,7 @@ summary: I was responsible for implementing and training other employees on a ne
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/fedex.jpg">
+  <img class="ui image" src="../images/fedex.jpeg">
 </div>
 
 I am a Operations Manager at FedEx Ground in Honolulu.  I am in charge of the inbound sort operation at the Honolulu International Airport facility.  Package handlers unload, load, and scan incoming packages which are placed on vans for delivery.   VISION is a FedEx Ground computer mapping application.  VISION was designed to tell package handlers which van a package belongs to and which section of the delivery van the package should be loaded based on the package's address.  Before VISION, package handlers had to look at each package address and refer to a chart to tell them which van a package belonged to and where it belonged in the van.  I was chosen to be responsible for implementing this new application.  I spent a week at the FedEx Ground Headquarters in Pittsburgh, PA for training.  I was told Hawaii was one of last places in the US where VISION was being rolled out, and overall feedback was very positive.  
