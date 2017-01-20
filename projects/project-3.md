@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cards.png
+image: images/cards.jpg
 title: Baccarat
 date: 2015
 labels:
