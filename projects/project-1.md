@@ -1,29 +1,22 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/fedex.jpg
+title: Mapping application
 date: 2015
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Learning
+  - Teaching
+summary: I was responsible for implementing and training other employees on a new application at FedEx Ground.
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/fedex.jpg">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+I am a Operations Manager at FedEx Ground in Honolulu.  I am in charge of the inbound sort operation at the Honolulu International Airport facility.  Package handlers unload, load, and scan incoming packages which are placed on vans for delivery.   VISION is a FedEx Ground computer mapping application.  VISION was designed to tell package handlers which van a package belongs to and which section of the delivery van the package should be loaded based on the package's address.  Before VISION, package handlers had to look at each package address and refer to a chart to tell them which van a package belonged to and where it belonged in the van.  I was chosen to be responsible for implementing this new application.  I spent a week at the FedEx Ground Headquarters in Pittsburgh, PA for training.  I was told Hawaii was one of last places in the US where VISION was being rolled out, and overall feedback was very positive.  
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+After returning to Hawaii, I carved out areas of Oahu and assigned them to a specific delivery van and section location.  I was also responsible for training other employees on how to use the new application.  I was pretty excited about VISION.  This would help improve the overall productivity of the inbound sort.  All seemed well until we actually went live.  When we went live, we ran into major problems.  Many Oahu addresses were not recognized by the application.  The way VISION plotted an address was it would look for a street number and a street name.  Then it would refer to a database based off the US postal service to plot the address on our map application.  Without both of them, the address could not be recognized.  Oahu has eleven military bases.  The US postal service has mailrooms on these bases where all of the postal service mail gets delivered.  Unfortunately, these mailrooms will not accept FedEx deliveries (similar to a PO Box address).  Military addresses do not usually have both a street number and street name.  One military address example is Building 199 Schofield HI 96857.  Many packages with military addresses were not being recognized by the new application daily.  I had to work directly with the regional VISION specialist and the software development team to come up with a solution.  According to them, this problem was only specific to Hawaii.  The resolution that was implemented was a manual plot feature which the original application did not have.  Now after countless manual plots, the VISION application runs pretty smoothly.  One of the major things I learned from this is communication plays a big role when changes are implemented.
 
 
 
