@@ -1,24 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/safety.jpg
+title: Safety committee
+date: 2016
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Organizing
+
+summary: FedEx Ground Safety Committee
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/safety.jpg">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I am a Operations Manager for FedEx Ground in Honolulu.  I am in charge of the inbound sort operation at the Honolulu International Airport facility.  Package handlers unload, load, and scan incoming packages which are placed on vans for delivery.  Safety is FedEx Ground's main goal.  Safety is discussed daily in our presort meetings.  As a manager, I have learned many employees are hestitant to bring up safety issues and concerns to management.  
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+I am also a part of a Employee Safety Committee that meets once a month with our senior manager to discuss safety issues and concerns.  I help set up these monthly meetings and also pick the committee members.  The committee has addressed numberous concerns that have been resolved.  For example, heat in our warehouse has been an issue.  To resolve this issue, more fans for our building were installed.  I also give awards and recognition on a monthly basis to employees who help promote our safety culture.  Pictures of all of the members are also posted in our building.  By organizing a Safety committee, we hope our employees will feel comfortable bringing up safety concerns to fellow employees who are part of Safety committee so more issues can be addressed and resolved.
