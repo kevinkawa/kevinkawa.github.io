@@ -104,14 +104,13 @@
         ]
     }
   ],
-
   "awards": [
     {
       "title": "Bravo Zulu Award",
       "date": "2016*02",
       "awarder": "FedEx Ground",
       "summary": "Recognition for going above and beyond. For creating a safety culture in Hawaii that reached 275 days injury free."
-    },
+    }
   ],
   "references": [
     {
