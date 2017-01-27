@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Future in Software Engineering
+title: Reflect on Smart Questions
 date: 2017-01-19
 labels:
   - Software Engineering
   - Learning
+  - Stack Overflow
 ---
 
 ## Future Goals
