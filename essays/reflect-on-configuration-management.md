@@ -6,7 +6,6 @@ date: 2017-01-31
 labels:
   - Software Engineering
   - Configuration Management
-  - GitHub
   - Git
 ---
 
