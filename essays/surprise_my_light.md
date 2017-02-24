@@ -11,7 +11,7 @@ labels:
 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/myPage(1).jpg">
+  <img class="ui image" src="../images/myPage(1).png">
 </div>
 
 ## My Experience
