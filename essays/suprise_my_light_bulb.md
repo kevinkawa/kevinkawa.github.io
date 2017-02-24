@@ -20,7 +20,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>kevinkawa.github.io/whoa_coding_standards.md at master · kevinkawa/kevinkawa.github.io · GitHub</title>
+  <title>kevinkawa.github.io/surprise_my_light_bulb.md at master · kevinkawa/kevinkawa.github.io · GitHub</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
@@ -68,7 +68,7 @@
   <link href="https://github.com/kevinkawa/kevinkawa.github.io/commits/master.atom" rel="alternate" title="Recent Commits to kevinkawa.github.io:master" type="application/atom+xml">
 
 
-    <link rel="canonical" href="https://github.com/kevinkawa/kevinkawa.github.io/blob/master/essays/whoa_coding_standards.md" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/kevinkawa/kevinkawa.github.io/blob/master/essays/suprise_my_light_bulb.md" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -140,7 +140,7 @@
 </form></div>
 
 
-          <a class="text-bold" href="/login?return_to=%2Fkevinkawa%2Fkevinkawa.github.io%2Fblob%2Fmaster%2Fessays%2Fwhoa_coding_standards.md" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
+          <a class="text-bold" href="/login?return_to=%2Fkevinkawa%2Fkevinkawa.github.io%2Fblob%2Fmaster%2Fessays%2Fsuprise_my_light_bulb.md" data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">Sign in</a>
             <span class="text-gray">or</span>
             <a class="text-bold" href="/join?source=header-repo" data-ga-click="(Logged out) Header, clicked Sign up, text:sign-up">Sign up</a>
       </div>
@@ -277,7 +277,7 @@
 
     
 
-<a href="/kevinkawa/kevinkawa.github.io/blob/110b36ac1943953f04515c4a6fe25fdcaaf83cff/essays/whoa_coding_standards.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/kevinkawa/kevinkawa.github.io/blob/110b36ac1943953f04515c4a6fe25fdcaaf83cff/essays/suprise_my_light_bulb.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
 <!-- blob contrib key: blob_contributors:v21:9d38b1a7e6d408c9f34306d530f98a7a -->
 
@@ -321,7 +321,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/kevinkawa/kevinkawa.github.io/blob/gh-pages/essays/whoa_coding_standards.md"
+               href="/kevinkawa/kevinkawa.github.io/blob/gh-pages/essays/suprise_my_light_bulb.md"
                data-name="gh-pages"
                data-skip-pjax="true"
                rel="nofollow">
@@ -331,7 +331,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/kevinkawa/kevinkawa.github.io/blob/master/essays/whoa_coding_standards.md"
+               href="/kevinkawa/kevinkawa.github.io/blob/master/essays/suprise_my_light_bulb.md"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -368,7 +368,7 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/kevinkawa/kevinkawa.github.io"><span>kevinkawa.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/kevinkawa/kevinkawa.github.io/tree/master/essays"><span>essays</span></a></span><span class="separator">/</span><strong class="final-path">whoa_coding_standards.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/kevinkawa/kevinkawa.github.io"><span>kevinkawa.github.io</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a href="/kevinkawa/kevinkawa.github.io/tree/master/essays"><span>essays</span></a></span><span class="separator">/</span><strong class="final-path">suprise_my_light_bulb.md</strong>
   </div>
 </div>
 
@@ -411,9 +411,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/kevinkawa/kevinkawa.github.io/raw/master/essays/whoa_coding_standards.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/kevinkawa/kevinkawa.github.io/blame/master/essays/whoa_coding_standards.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/kevinkawa/kevinkawa.github.io/commits/master/essays/whoa_coding_standards.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/kevinkawa/kevinkawa.github.io/raw/master/essays/suprise_my_light_bulb" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/kevinkawa/kevinkawa.github.io/blame/master/essays/suprise_my_light_bulb.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/kevinkawa/kevinkawa.github.io/commits/master/essays/suprise_my_light_bulb.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
