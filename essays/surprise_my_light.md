@@ -10,7 +10,7 @@ labels:
 ---
 
 
-<div class="ui small rounded images">
+<div class="ui large image">
   <img class="ui image" src="../images/mypage (1).png">
 </div>
 
