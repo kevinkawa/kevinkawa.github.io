@@ -11,6 +11,7 @@ labels:
 ---
 
 <img class="ui medium right floated image" src="../images/shower.jpg">
+
 ## Meteor or Meteor Showers
 
 For the past couple of weeks, learning Meteor has been a quite challenge.  Going through the meteor-application-template, meteor-example-form, and the Digits modules was pretty rough and frustrating.  Unfortunately, I still do NOT have a complete understanding of all of the Meteor concepts especially the use of the Mongo Mini database and publications.  
