@@ -24,7 +24,6 @@ Tabletop Manoa is a web application that was created for our final ICS 314 group
 
 <br/>
 <br/>
-<br/>
 
 <img class="ui medium right floated rounded image" src="../images/dropdown.PNG">
 <br/>
