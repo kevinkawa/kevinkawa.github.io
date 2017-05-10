@@ -3,7 +3,6 @@ layout: project
 type: project
 image: images/landing.png
 title: Tabletop Manoa Website
-permalink: projects/tabletop
 date: 2017
 labels:
   - HTML
