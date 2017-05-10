@@ -19,9 +19,13 @@ summary: A web application that was created for the University of Hawaii at Mano
 
 <img class="ui medium right floated rounded image" src="../images/homepage.PNG">
 
+<br/>
 Tabletop Manoa is a web application that was created for our final ICS 314 group project.  The application requires users to log in with their active University of Hawaii account.  Tabletop Manoa allowed users to browse and join the various available games and also create their own game group.  There is also a Calendar function which allows users to view what games are running on particular days.  The application utilized HTML, Javascript, Semantic UI, Meteor, and MongoDB.
 
 <br/>
+<br/>
+<br/>
+
 <img class="ui medium right floated rounded image" src="../images/dropdown.PNG">
 <br/>
 
