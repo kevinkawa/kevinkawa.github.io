@@ -4,11 +4,11 @@
     "label": "Student",
     "picture": "/images/kevin.jpg",
     "email": "kkawa@hawaii.edu",
-    "phone": "",
+    "phone": "808-781-1618",
     "website": "https://kevinkawa.github.io",
     "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
     "location": {
-      "address": "",
+      "address": "1655 Makamua Street",
       "postalCode": "96782",
       "city": "Pearl City",
       "countryCode": "USA",
@@ -24,7 +24,7 @@
         "network": "linkedin",
         "username": "kevin-kawamura-031138133",
         "url": "https://www.linkedin.com/in/kevin-kawamura-031138133"
-      },
+      }
     ]
   },
   "interests": [
@@ -42,7 +42,7 @@
       "name": "Puzzles",
       "keywords": [
       ]
-    },
+    }
   ],
   "skills": [
     {
@@ -55,24 +55,39 @@
         "Javascript",
         "Python",
         "Common Lisp",
-        "Prolog"
+        "Prolog",
+        "HTML/CSS",
+        "SQL",
+        "Meteor Framework",
+        "Semantic UI"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "Windows"
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring 2018)",
       "studyType": "B.A.",
-      "startDate": "2014-09-01",
+      "startDate": "2014",
       "endDate": "Present",
+      "gpa": "",
+      "courses": [
+      ]
+    },
+    {
+      "institution": "Honolulu Community College, Honolulu, HI",
+      "area": "Liberal Arts, Spring 2014",
+      "studyType": "A.A.",
+      "startDate": "2011",
+      "endDate": "2014",
       "gpa": "",
       "courses": [
       ]
@@ -81,33 +96,35 @@
   "work": [
     {
       "company": "FedEx Ground",
+      "position": "Operations Manager",
+      "website": "http://www.fedex.com",
+      "startDate": "2014",
+      "endDate": "Present",
+      "summary": "Plans, organizes, staffs, directs, and controls specific day to day operations within the station.",
+      "highlights": [
+        "Hiring Manager",
+        "VISION project",
+        "Inbound Sort Manager"
+      ]
+    },
+    {
+      "company": "FedEx Ground",
       "position": "Operations Administrator",
       "website": "http://www.fedex.com",
-      "startDate": "2006-12",
-      "endDate": "2014-06",
+      "startDate": "2006",
+      "endDate": "2014",
       "summary": "Responsible for performing the clerical and administrative functions for station operational areas",
       "highlights": [
         "Quality Assurance Clerk",
         "Customer Service"
       ]
-    },
-    {
-      "company": "FedEx Ground",
-      "position": "Operations Manager",
-      "website": "http://www.fedex.com",
-      "startDate": "2014-06",
-      "endDate": "Present",
-      "summary": "Plans, organizes, staffs, directs, and controls specific day to day operations within the station.",
-      "highlights": [
-        "Hiring Manager",
-        "VISION project"
-        ]
     }
+
   ],
   "awards": [
     {
       "title": "Bravo Zulu Award",
-      "date": "2016*02",
+      "date": "2016",
       "awarder": "FedEx Ground",
       "summary": "Recognition for going above and beyond. For creating a safety culture in Hawaii that reached 275 days injury free."
     }
