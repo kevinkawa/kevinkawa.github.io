@@ -1,11 +1,12 @@
 ---
 layout: essay
 type: essay
-title: Reflect on Javascript 1
+title: Learning Javascript
 date: 2017-01-18
 labels:
   - Software Engineering
   - Learning
+  - Javascript
 ---
 
 ## Javascript
